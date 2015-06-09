@@ -8,6 +8,14 @@ Ruby Programming Questions
 
 3. Convert a = [["row", 3], ["your", 1], ["boat", 1]] to ["row", "row", "row", "your", "boat"]. The first element in the nested arrays is the word that should be displayed and the second element in the nested array is the number of times the word should be displayed.
 
+3.1 # Given an array of positive integers, write a function which returns all the unique pairs which add (equal) up to 100.
+
+# Example data:
+
+# sample_data = [0, 1, 100, 99, 0, 10, 90, 30, 55, 33, 55, 75, 50, 51, 49, 50, 51, 49, 51]
+# sample_output = [[1,99], [0,100], [10,90], [51,49], [50,50]]
+
+  
 4. Take Home assignment
 
 	2.David Heinemeier Hansson's github url is https://github.com/dhh .
