@@ -74,3 +74,61 @@ sample_output = [[1,99], [0,100], [10,90], [51,49], [50,50]]
 9. Switch database connection for a purticular model.
 
 10. State based system for orders - How to manage inside a wizard.
+
+Q1. Space Rockets are dangerous. SpaceX has decided to give you a free ride on their new RuberX autonomous space rocket to the international space station. The only catch is that the code for RuberX is written entirely in Ruby. Would you take the ride? Give at least 3 reasons why you would, 3 reasons why you wouldn’t
+
+# 1. Maintainable
+# 2. Conventional
+# 3. Clean 
+#
+# 1. Partially Compiled 
+# 2. 
+# 3.
+
+
+
+Q2. What is Session and Cookies? When is it best to use one over the other
+
+
+
+Q3. What do the following two variables tell you about themselves?
+
+1. @@foobar
+2. $foobar
+
+
+
+
+
+
+Q4. What is Eager loading? /N + 1 queries problem
+What is the difference between the following:
+   ——>includes
+   ——>preload
+   ——>Joins
+   
+   
+   
+   
+   
+ Q5. Choosing Between has_many :through and has_and_belongs_to_many? Where to use which one?
+
+
+
+
+Q6 Polymorphic Associations ? How do you set them up ? Why do we use them?
+
+
+class Product
+end
+
+class Vendor
+end
+
+
+
+
+Q7. Finding by SQL? Would you ever need to use this in your code. If yes them why?
+
+
+Q8. How would you debug an error on a rails application
