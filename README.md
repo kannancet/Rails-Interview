@@ -77,16 +77,6 @@ sample_output = [[1,99], [0,100], [10,90], [51,49], [50,50]]
 
 Q1. Space Rockets are dangerous. SpaceX has decided to give you a free ride on their new RuberX autonomous space rocket to the international space station. The only catch is that the code for RuberX is written entirely in Ruby. Would you take the ride? Give at least 3 reasons why you would, 3 reasons why you wouldn’t
 
-# 1. Maintainable
-# 2. Conventional
-# 3. Clean 
-#
-# 1. Partially Compiled 
-# 2. 
-# 3.
-
-
-
 Q2. What is Session and Cookies? When is it best to use one over the other
 
 
